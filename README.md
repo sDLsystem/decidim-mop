@@ -1,3 +1,5 @@
+A fork to adapt the participatory democracy framework Decidim to a context of projects, development teams and students.  
+<hr>
 <img src="https://cdn.rawgit.com/decidim/decidim/master/logo.svg" alt="Decidim Logo" width="400">
 
 The participatory democracy framework.
